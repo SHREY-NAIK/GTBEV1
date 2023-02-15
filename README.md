@@ -5,7 +5,7 @@
 
 ### 1. Grab this repo
 ```
-git clone https://gitlab.com/gimbalabs/jamesdunseith/gimbal-tracker
+git clone https://github.com/SHREY-NAIK/GTBEV1.git
 cd gimbal-tracker
 npm install
 npm run start
