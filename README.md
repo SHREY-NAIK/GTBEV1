@@ -1,5 +1,4 @@
 # Gimbal Bounty Experiment
-## Gimbalabs | April 2022
 
 ## How to use:
 
