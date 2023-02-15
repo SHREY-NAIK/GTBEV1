@@ -28,3 +28,5 @@ if ((await window.cardano.getNetworkId()) === 0) return true;
 3. Easy Peasy for local state management
 
 See `package.json` for full details.
+
+![gimbal](https://user-images.githubusercontent.com/47191058/219077070-4350b5c2-2348-4f4a-a6d5-383d4d757bfd.png)
